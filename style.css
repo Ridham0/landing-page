@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(to right, #ff7e5f, #feb47b);
+    color: white;
+}
+
+header {
+    padding: 100px 20px;
+    transition: transform 0.5s ease-in-out;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 18px;
+    cursor: pointer;
+    background: white;
+    color: #ff7e5f;
+    border: none;
+    border-radius: 5px;
+}
+
+#about {
+    padding: 50px;
+    background: white;
+    color: black;
+}
